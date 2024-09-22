@@ -9,7 +9,6 @@
 1. [전자상거래용 shopify에서 더 나은 메타 태그 및 설명 작성 예제]
 1. [CHECK LIST: 매출 증대를 위한 판매 페이지 전환 체크 리스트]
 1. [SEO 카피라이팅과 전환 최적화의 균형을 맞춘 판매 페이지 예시]
-1. [매력적인 SEO 카피라이팅 연습]
 
 ---
 
@@ -104,4 +103,3 @@ Obviously, this is for a residential cleaning business in Chicago.
   - 예: “10개 남았습니다” 또는 “오늘 종료됩니다”.
 9.	명확한 행동 유도(Call to Action): 지금 구매 또는 지금 가입과 같은 명확한 행동 유도 버튼을 페이지에 포함
 
-1. [매력적인 SEO 카피라이팅 연습]
